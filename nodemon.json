@@ -1,7 +1,7 @@
 {
     "env": {
-        "MONGO_USER": "prueba",
-        "MONGO_PASSWORD": "DWpFK4CododETv2u",
+        "MONGO_USER": "DB_Prueba",
+        "MONGO_PASSWORD": "camilo123456789",
         "MONGO_DB": "graphql"
     }
 }
